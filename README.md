@@ -34,6 +34,6 @@ in your terminal/prompt after activating `conda`.
 
 Due to the dynamic nature of updates to not only PCs and Macs but also to `conda` and the packages/libraries themselves, the .yml files (for Mac Silicon and PC Windows) will inevitably need to be updated.
 
-#### Regarding Macintosh Computer with the Intel chip.
+#### Regarding Macintosh Computer with the Intel chip
 
 As of `PyTorch` 2.3.0, official pre-built binaries for macOSX x86_64 (Intel) has been deprecated, which means that using PyTorch and related libraries with an Intel chip is going to become more and more difficult to run correctly. As such, while the current YAML file for Macs with Intel chips works, this .yml will not be updated in the future due to `PyTorch`'s deprecation.
